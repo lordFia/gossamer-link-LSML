@@ -96,6 +96,33 @@ Large models may optionally be used as external components, but they are not req
 
 ---
 
+## Minimal Example (Conceptual Execution Flow)
+
+This is a simplified illustration of how Synaptic Mesh behaves in practice:
+
+**User interaction: copy response**  
+→ Trust score increases (+0.1)  
+→ Essence vector is slightly reinforced toward current pattern  
+
+**User interaction: skip response**  
+→ Trust score decreases (-0.1)  
+→ Mutation is triggered to explore alternative behavior  
+
+**User interaction: revise response**  
+→ Trust score increases (+0.05)  
+→ Essence vector is adjusted toward corrected direction  
+
+**User interaction: dwell (long attention)**  
+→ Trust score increases (+0.1 to +0.2)  
+→ Current behavioral pattern is strengthened  
+
+These updates occur locally inside each node.
+There is no global state, no synchronization, and no shared optimization signal.
+
+Each node evolves independently based solely on its own interaction history.
+
+---
+
 ## Evolution Model
 
 Synaptic Mesh implements a simple closed-loop evolution process:
@@ -200,4 +227,3 @@ This indicates:
 * no centralized training  
 * no cross-node communication  
 * user-driven behavioral evolution
-
