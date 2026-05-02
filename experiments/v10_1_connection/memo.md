@@ -1,23 +1,23 @@
-# v10.1 — Connection
+# v10.1.0 — Anti-Hub + Top-K Random
 
 Purpose:
-Test connection logic using trust + similarity.
+Reduce hub dominance and introduce stochastic selection.
 
 Setup:
-Nodes=10, Steps=400
+Nodes=10, Steps=400, TOP_K=6
 
 Result:
-Stable connection distribution.
-No node concentration.
-Balanced role distribution.
-Variance maintained (~0.11).
+Connections distributed more evenly.
+No dominant hub observed.
+Trust remains stable without saturation.
+Variance ~0.108.
 
 Conclusion:
-Connection mechanism is stable and functional.
+Anti-hub and Top-K random improve structural balance.
 
 --- JP ---
-信頼＋類似度による接続を検証
-接続の偏りなし
-役割バランス良好
-分散維持（約0.11）
-安定した接続が確認された
+ハブ集中を抑制
+Top-Kランダムで偏り軽減
+信頼スコアは安定
+分散も維持（約0.108）
+構造バランス改善
