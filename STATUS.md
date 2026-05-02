@@ -1,22 +1,70 @@
-# Synaptic Mesh — Status (v1.3)
-
-## Project Status
-
-• v1.3: Design phase ✅  
-• v1.4: Experiments (in progress)  
-• v1.5: Reproducibility & analysis (planned)  
-
-This project is currently in the break-it-first stage.
+# Gossamer-Link — Project Status
 
 ---
 
-## Public Summary
+## ■ Current Phase
 
-Synaptic Mesh is an Evolution OS for small, local AIs.  
-It does not train models or share parameters.
+v10 — Communication Structure ✔ Achieved  
+v10.4 — Authentication Stabilization ✔ Achieved  
 
-Each node evolves independently through user feedback, using a behavioral state vector (“Essence”) and a trust signal.
+Next: v11 — Essence Optimization
 
-There is no communication between nodes, no global memory, and no inference engine.
+---
 
-The system explores whether useful behavior can emerge purely from local adaptation and mutation under user-driven selection pressure.
+## ■ Phase Overview
+
+v1–v7: Foundations  
+- Node structure  
+- Interaction dynamics  
+- Evolution loop  
+- Stability control  
+
+v8: Diversity Control  
+- Convergence detection  
+- Repulsion  
+- Role differentiation  
+- Noise  
+- Stability conditions  
+
+v9: Trust System  
+- Quality (Q)  
+- Reputation (R)  
+- Usage (U)  
+- Temporal dynamics  
+- Coefficient optimization  
+
+v10: Communication Structure  
+- Connection  
+- Search  
+- Propagation  
+- Authentication  
+
+---
+
+## ■ Next Objectives (v11)
+
+- Essence structure optimization  
+- Compression  
+- Efficient search  
+- Deduplication  
+
+---
+
+## ■ Long-Term Roadmap
+
+v12 — Learning Propagation  
+v13 — Security  
+v14 — Human Integration  
+v15 — MVP  
+
+---
+
+## ■ Status Summary
+
+System has achieved:
+
+- Stable distributed evolution  
+- Trust-based regulation  
+- Dynamic connection structure  
+
+Next step is optimizing essence efficiency and scalability.
