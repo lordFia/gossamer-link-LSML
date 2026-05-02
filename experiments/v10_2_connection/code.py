@@ -22,6 +22,7 @@ def cosine_similarity(a, b):
 
 def search_nodes(node, nodes):
     candidates = [n for n in nodes if n.id != node.id]
+
     sampled = random.sample(candidates, min(SEARCH_K, len(candidates)))
 
     scored = []
@@ -29,6 +30,7 @@ def search_nodes(node, nodes):
         sim = cosine_similarity(node.essence, n.essence)
         trust = n.trust
         noise = random.uniform(0.9, 1.1)
+
         score = (0.7 * trust + 0.3 * sim) * noise
         scored.append((score, n))
 
@@ -194,6 +196,7 @@ def step(nodes):
         update_role(node, nodes, neighbors_dict[node.id])
 
     update_usage(nodes, neighbors_dict)
+
     update_trust(nodes, neighbors_dict)
 
     for node in nodes:
