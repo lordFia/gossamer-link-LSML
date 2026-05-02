@@ -1,10 +1,9 @@
-# Synaptic Mesh
+# Synaptic Mesh — Evolution OS for Small AIs
 
 A system where small AIs evolve through user interaction — no retraining, no servers, no communication (v1.x).
 
 ---
 
-# Synaptic Mesh — Evolution OS for Small AIs  
 Author / Originator: Mesh Hideaki
 
 Synaptic Mesh is an Evolution OS, not an AI model.  
