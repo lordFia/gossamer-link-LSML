@@ -2,7 +2,7 @@
 
 **Structure adapts, not weights.**
 
-![Gossamer-Link Demo](gossamer-link-demo.mp4)
+[gossamer-link-demo.mp4](gossamer-link-demo.mp4)
 
 ---
 
