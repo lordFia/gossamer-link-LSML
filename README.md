@@ -3,7 +3,9 @@
 **Structure adapts, not weights.**
 
 <div align="center">
-  <video src="https://github.com/MeshHideaki/gossamer-link/raw/main/gossamer-link-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <a href="gossamer-link-demo.mp4">
+    <img src="gossamer-link-demo.gif" alt="gossamer-link-demo" width="100%">
+  </a>
   <br>
   <a href="gossamer-link-demo.mp4">gossamer-link-demo.mp4</a>
 </div>
