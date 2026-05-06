@@ -2,7 +2,14 @@
 
 **Structure adapts, not weights.**
 
-[![Gossamer-Link Demo](thumbnail.png)](gossamer-link-demo.mp4)
+<div align="center">
+  <a href="gossamer-link-demo.mp4">
+    <img src="gossamer-link-thumb.gif" alt="Gossamer-Link Demo" width="100%">
+  </a>
+  <br>
+  <a href="gossamer-link-demo.mp4">🎬 Download High-Quality Video (MP4)</a>
+</div>
+
 
 ---
 
