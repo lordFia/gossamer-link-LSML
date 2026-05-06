@@ -2,13 +2,7 @@
 
 **Structure adapts, not weights.**
 
-<div align="center">
-  <a href="gossamer-link-demo.mp4">
-    <video src="https://github.com/MeshHideaki/gossamer-link/raw/main/gossamer-link-demo.mp4" width="100%" autoplay loop muted playsinline></video>
-  </a>
-  <br>
-  <a href="gossamer-link-demo.mp4">gossamer-link-demo.mp4</a>
-</div>
+https://github.com/MeshHideaki/gossamer-link/blob/main/gossamer-link-demo.mp4?raw=true
 
 ---
 
