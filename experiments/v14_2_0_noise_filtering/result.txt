@@ -1,0 +1,40 @@
+Run1:
+
+mean_variance: 0.030469
+
+spike_reduction_ratio: 0.848197
+
+signal_preservation_ratio: 0.954499
+
+validation_result: True
+
+final_result: achieved
+
+
+Run2:
+
+mean_variance: 0.030477
+
+spike_reduction_ratio: 0.845159
+
+signal_preservation_ratio: 0.956677
+
+validation_result: True
+
+final_result: achieved
+
+
+Run3:
+
+mean_variance: 0.030423
+
+spike_reduction_ratio: 0.847023
+
+signal_preservation_ratio: 0.954769
+
+validation_result: True
+
+final_result: achieved
+
+
+Status: achieved
