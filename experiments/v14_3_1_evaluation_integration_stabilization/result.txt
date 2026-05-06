@@ -1,0 +1,40 @@
+Run1:
+mean_variance: 0.02653
+trust_range: 0.414307
+human_feedback_weight: 0.018
+ema_smoothing_active: True
+evaluation_decay_active: True
+evaluation_memory_norm: 0.149875
+structural_diversity: 0.113745
+dominance_ratio: 0.148911
+trust_saturation: False
+validation_result: True
+final_result: achieved
+
+Run2:
+mean_variance: 0.027008
+trust_range: 0.640982
+human_feedback_weight: 0.018
+ema_smoothing_active: True
+evaluation_decay_active: True
+evaluation_memory_norm: 0.149701
+structural_diversity: 0.122232
+dominance_ratio: 0.177684
+trust_saturation: False
+validation_result: True
+final_result: achieved
+
+Run3:
+mean_variance: 0.026564
+trust_range: 0.63527
+human_feedback_weight: 0.018
+ema_smoothing_active: True
+evaluation_decay_active: True
+evaluation_memory_norm: 0.149727
+structural_diversity: 0.116946
+dominance_ratio: 0.175504
+trust_saturation: False
+validation_result: True
+final_result: achieved
+
+Status: achieved
