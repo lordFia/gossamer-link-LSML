@@ -4,12 +4,11 @@
 
 <div align="center">
   <a href="gossamer-link-demo.mp4">
-    <img src="gossamer-link-thumb.gif" alt="Gossamer-Link Demo" width="100%">
+    <img src="gossamer-link-demo.gif" alt="gossamer-link-demo" width="100%">
   </a>
   <br>
-  <a href="gossamer-link-demo.mp4">🎬 Download High-Quality Video (MP4)</a>
+  <a href="gossamer-link-demo.mp4">gossamer-link-demo.mp4</a>
 </div>
-
 
 ---
 
