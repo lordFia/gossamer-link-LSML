@@ -7,7 +7,10 @@
     <img src="gossamer-link-demo.gif" alt="gossamer-link-demo" width="100%">
   </a>
   <br>
-  <a href="gossamer-link-demo.mp4">gossamer-link-demo.mp4</a>
+  <a href="gossamer-link-demo.mp4">Demo Video</a>
+  <br>
+  <a href="Visual%20Sequence%2001.mp4">Visual Sequence 01</a>
+</div>
 
 <a href="Visua1%20Sequence%2001.mp4">
 Visual Sequence 01
