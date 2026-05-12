@@ -7,7 +7,7 @@
     <img src="gossamer-link-demo.gif" alt="gossamer-link-demo" width="100%">
   </a>
   <br>
-  <a href="Visual%20Sequence%2001.mp4">Visual Sequence 01</a>
+  <a href="Visual_Sequence_01.mp4">Visual Sequence 01</a>
 </div>
 
 ---
