@@ -1,0 +1,50 @@
+--- RUN #1 ---
+history_length: 140
+cause_memory_length: 140
+successful_memory_count: 20
+reactivation_count: 63
+successful_reactivations: 63
+collapse_events: 1
+average_persistence: 80.0
+structural_diversity: 1.0
+reactivation_integrity: True
+historical_adaptation: True
+simulation_stability: True
+mean_variance: 0.03056
+trust_range: 0.684991
+validation_result: True
+
+--- RUN #2 ---
+history_length: 140
+cause_memory_length: 140
+successful_memory_count: 20
+reactivation_count: 59
+successful_reactivations: 59
+collapse_events: 1
+average_persistence: 80.0
+structural_diversity: 0.916667
+reactivation_integrity: True
+historical_adaptation: True
+simulation_stability: True
+mean_variance: 0.031114
+trust_range: 0.669612
+validation_result: True
+
+--- RUN #3 ---
+history_length: 140
+cause_memory_length: 140
+successful_memory_count: 20
+reactivation_count: 71
+successful_reactivations: 71
+collapse_events: 1
+average_persistence: 80.0
+structural_diversity: 0.916667
+reactivation_integrity: True
+historical_adaptation: True
+simulation_stability: True
+mean_variance: 0.030854
+trust_range: 0.63374
+validation_result: True
+
+final_result:
+ACHIEVED
