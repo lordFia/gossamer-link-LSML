@@ -1,0 +1,59 @@
+--- RUN #1 ---
+history_length: 140
+cause_memory_length: 140
+strategy_memory_length: 50
+strategy_fixation_events: 127
+strategy_reuse_events: 29
+strategy_inheritance_events: 29
+successful_strategy_recoveries: 29
+adaptive_strategy_ranking: True
+strategy_integrity: True
+long_term_persistence: True
+historical_adaptation: True
+structural_diversity: 1.0
+average_persistence: 80.0
+simulation_stability: True
+mean_variance: 0.030988
+trust_range: 0.7451
+validation_result: True
+
+--- RUN #2 ---
+history_length: 140
+cause_memory_length: 140
+strategy_memory_length: 50
+strategy_fixation_events: 125
+strategy_reuse_events: 28
+strategy_inheritance_events: 28
+successful_strategy_recoveries: 28
+adaptive_strategy_ranking: True
+strategy_integrity: True
+long_term_persistence: True
+historical_adaptation: True
+structural_diversity: 1.0
+average_persistence: 80.0
+simulation_stability: True
+mean_variance: 0.030438
+trust_range: 0.669586
+validation_result: True
+
+--- RUN #3 ---
+history_length: 140
+cause_memory_length: 140
+strategy_memory_length: 50
+strategy_fixation_events: 128
+strategy_reuse_events: 29
+strategy_inheritance_events: 29
+successful_strategy_recoveries: 29
+adaptive_strategy_ranking: True
+strategy_integrity: True
+long_term_persistence: True
+historical_adaptation: True
+structural_diversity: 0.916667
+average_persistence: 80.0
+simulation_stability: True
+mean_variance: 0.030367
+trust_range: 0.650284
+validation_result: True
+
+final_result:
+ACHIEVED
