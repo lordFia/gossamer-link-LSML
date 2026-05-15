@@ -1,0 +1,62 @@
+--- RUN #1 ---
+self_repair_memory_length: 700
+repair_history_length: 700
+repair_trigger_events: 264
+successful_repair_events: 250
+topology_recovery_events: 262
+anomaly_reduction_events: 166
+persistence_recovery_events: 264
+repair_confidence_tracking: True
+repair_integrity_tracking: True
+recovery_stability_tracking: True
+adaptive_repair_behavior: True
+historical_repair_reuse: True
+structural_diversity: 1.0
+average_persistence: 80.0
+simulation_stability: True
+mean_variance: 0.029993
+trust_range: 0.638421
+validation_result: True
+
+--- RUN #2 ---
+self_repair_memory_length: 700
+repair_history_length: 700
+repair_trigger_events: 276
+successful_repair_events: 254
+topology_recovery_events: 274
+anomaly_reduction_events: 176
+persistence_recovery_events: 276
+repair_confidence_tracking: True
+repair_integrity_tracking: True
+recovery_stability_tracking: True
+adaptive_repair_behavior: True
+historical_repair_reuse: True
+structural_diversity: 0.666667
+average_persistence: 80.0
+simulation_stability: True
+mean_variance: 0.02991
+trust_range: 0.663155
+validation_result: True
+
+--- RUN #3 ---
+self_repair_memory_length: 700
+repair_history_length: 700
+repair_trigger_events: 316
+successful_repair_events: 284
+topology_recovery_events: 313
+anomaly_reduction_events: 178
+persistence_recovery_events: 316
+repair_confidence_tracking: True
+repair_integrity_tracking: True
+recovery_stability_tracking: True
+adaptive_repair_behavior: True
+historical_repair_reuse: True
+structural_diversity: 0.666667
+average_persistence: 80.0
+simulation_stability: True
+mean_variance: 0.029957
+trust_range: 0.716846
+validation_result: True
+
+final_result:
+ACHIEVED
